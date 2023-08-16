@@ -28,7 +28,7 @@ _Summer 2022 & 2023, Montreal, QC_
 
 ### Hackathons
 
-**MAIS Hack**: Crafted a [LoL outcome predictor](https://github.com/mikez08/Machine-Learning) using SciKit Learn; Backend in Python, frontend in web technologies.  
+**MAIS Hack**: Crafted a [LoL outcome predictor](https://github.com/QCrow/Machine-Learning) using SciKit Learn; Backend in Python, frontend in web technologies.  
 **McGill CodeJam**: Conceptualized an [MBTI-based game](https://github.com/Bug-Zappr/mbti-matchr-client) to aid pandemic communication; built with Unity, C#, and Java.
 
 ### Coursework Projects
@@ -39,7 +39,7 @@ _Summer 2022 & 2023, Montreal, QC_
 
 ### Association Involvement
 
-**IT Director - McGill CSSA**: Revitalized the [CSSA website frontend](https://github.com/mcgillcssa/cssa-frontend) & [CSSA website backend]([#mock-link-to-cssa-repo](https://github.com/mcgillcssa/cssa-backend)) with Vue.js and Spring Boot, hosted on Heroku.
+**IT Director - McGill CSSA**: Revitalized the [CSSA website frontend](https://github.com/mcgillcssa/cssa-frontend) & [CSSA website backend](https://github.com/mcgillcssa/cssa-backend) with Vue.js and Spring Boot, hosted on Heroku.
 
 ## 🔧 Skills & Expertise
 
