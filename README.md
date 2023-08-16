@@ -10,7 +10,6 @@
 
 - 📍 **Location**: Montreal, QC  
 - 📧 **Email**: [yiqiao.wang4@mail.mcgill.ca](mailto:yiqiao.wang4@mail.mcgill.ca)  
-- 📞 **Phone**: 819-701-6000  
 
 ## 🎓 Education
 _Bachelor of Engineering: Co-op in Software Engineering_  
