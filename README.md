@@ -1,5 +1,5 @@
 # Yiqiao Wang
-
+![C++](https://img.shields.io/badge/language-C++-blue.svg)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java)
