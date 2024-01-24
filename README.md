@@ -46,5 +46,3 @@ _Summer 2022 & 2023, Montreal, QC_
 ## What I Am Working On
 Learning computer graphics, C# and C++, and developing games!
 
-🔗 [Check out the repository on GitHub!](https://github.com/QCrow/Immortal-Trade)
-
