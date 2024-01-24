@@ -19,25 +19,16 @@ McGill University, Montreal, QC (2021 – 2025)
 
 ### Full Stack Developer | _Inossem Times Inc._  
 _Summer 2022 & 2023, Montreal, QC_
-- Revamped the company's webpage using Vue.js, reducing navigation time by half.
+- Revamped the company's webpage using Vue.js, reducing overall navigation time by 30%.
 - Engineered a feature to boost data calculation speeds for 2,000+ clients.
 - Enhanced backend performance using Python and JavaScript.
 
 ## 🚀 Projects & Achievements
-
-### Hackathons
-
-**MAIS Hack**: Crafted a [LoL outcome predictor](https://github.com/QCrow/Machine-Learning) using SciKit Learn; Backend in Python, frontend in web technologies.  
-**McGill CodeJam**: Conceptualized an [MBTI-based game](https://github.com/Bug-Zappr/mbti-matchr-client) to aid pandemic communication; built with Unity, C#, and Java.
-
-### Coursework Projects
-
-**Raspberry Pi Robot** ([ECSE 211](https://github.com/QCrow/DPMF2022Team24)): Led a team to design a bot for aiding disabled individuals; written in Python.  
-**Museum Management App** ([ECSE 321](https://github.com/McGill-ECSE321-Fall2022/project-group-08)): Co-developed using Vue.js, Spring, and PostgreSQL.  
-**Student Task Management** ([ECSE 428](https://github.com/MihailOfficial/myScheduler)): App developed with Typescript, Express, MongoDB, and React.js.
+### Game Jams
+**CREATIVE Jam 2023**: [Quantum Claw: Cat Die Thrice](https://faustshao.itch.io/quantum-claw) - Best Artistic Expression Prize
+**McGame Jam 2024**: [RubiChess](https://github.com/QCrow/McGameJam2024) - Best Technical Innovation Prize
 
 ### Association Involvement
-
 **IT Director - McGill CSSA**: Revitalized the [CSSA website frontend](https://github.com/mcgillcssa/cssa-frontend) & [CSSA website backend](https://github.com/mcgillcssa/cssa-backend) with Vue.js and Spring Boot, hosted on Heroku.
 
 ## 🔧 Skills & Expertise
@@ -52,11 +43,8 @@ _Summer 2022 & 2023, Montreal, QC_
 - Automated testing (Pytest, Mocha, Chai, Postman, JUnit, Mockito)
 - SQL and NoSQL (PostgreSQL, MySQL, MongoDB)
 
-## 🛠 What I'm Working On
-
-### Immortal Trade - 2D Unity Game
-
-Dive into the world of "Immortal Trade," a 2D game I'm crafting using Unity. Navigate intricate challenges, master gameplay mechanics, and experience a unique narrative I've been thrilled to develop.
+## What I Am Working On
+Learning computer graphics, C# and C++, and developing games!
 
 🔗 [Check out the repository on GitHub!](https://github.com/QCrow/Immortal-Trade)
 
