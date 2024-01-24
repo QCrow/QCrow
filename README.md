@@ -25,7 +25,7 @@ _Summer 2022 & 2023, Montreal, QC_
 
 ## 🚀 Projects & Achievements
 ### Game Jams
-**CREATIVE Jam 2023**: [Quantum Claw: Cat Die Thrice](https://faustshao.itch.io/quantum-claw) - Best Artistic Expression Prize
+**CREATIVE Jam 2023**: [Quantum Claw: Cat Die Thrice](https://faustshao.itch.io/quantum-claw) - Best Artistic Expression Prize  
 **McGame Jam 2024**: [RubiChess](https://github.com/QCrow/McGameJam2024) - Best Technical Innovation Prize
 
 ### Association Involvement
