@@ -44,8 +44,8 @@ _Summer 2022 & 2023, Montreal, QC_
 
 **Languages**: Fluent in French, English, and Mandarin. Basic in Spanish.  
 **Programming**:
-- Mastery in Python, TypeScript(JavaScript), Java, C#
-- Familiarity with C, Bash, ARM Assembly
+- Proficient in C++, C#, Java, and Python
+- Familiar with JavaScript, C, SQL/NoSQL DB
 
 **Software & Tools**:
 - Git & Version Control
